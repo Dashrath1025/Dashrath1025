@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dashrath1025
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on fronted developer
+- 🌱 I’m currently intern at einfochips(an arrow comapany)
+- 💞️Aspiring full stack developer
 - 📫 How to reach me ...
 
 <!---
