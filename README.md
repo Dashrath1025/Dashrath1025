@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dashrath1025
+- 👋 Hi, I’m @Dashrath
 - 👀 I’m interested in Web development
 - 🌱 I’m currently intern at einfochips(an arrow comapany)
 - 💞️Aspiring full stack developer
