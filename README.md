@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dashrath
-- 👀 I’m interested in Web development
-- 🌱 I’m currently intern at einfochips(an arrow comapany)
-- 💞️Aspiring full stack developer
+- 👀 I’m interested in Web development & DevOps
+- 🌱 I’m currently Associate Enginner at einfochips(an arrow comapany)
+- 💞️Aspiring Devops developer
 - 📫 How to reach me ... Dm me on @Linkdin -https://www.linkedin.com/in/dashrath1025 
 
 <!---
